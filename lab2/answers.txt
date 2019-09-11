@@ -1,1 +1,2 @@
-Answers go here!
+1) In line 249, the value in the second index should be [invaderCol] instead of [invaderRow]. To fix this, we would change that index to the correct value of [invaderCol].
+2) 
